@@ -1,6 +1,6 @@
 # Midterm p1: Report on Analysis of Fibonacci  Series
 * **Author**: Michael Mills
-* **GitHub Repo**: [link to github repo with this report]
+* **GitHub Repo**: (https://github.com/mmills6060/cs5008-midterm)
 * **Semester**: Summer 2023
 * **Languages Used**: c, python
 
